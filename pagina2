@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<HTML>
+       <HEAD>
+	   <meta charset="utf-8"/>
+	   <title>Mi primer página WEB</title>
+	   </HEAD>
+	           <BODY>
+			   <!-- Comentario de la practica 1-->
+			        <CENTER><H1>Mi sitio WEB</H1></CENTER>
+					<hr>
+	                Bienvenidos
+					<br><br>Size 1
+					<hr size=1 width=100%>
+					Size 3
+					<hr size=1 width=80%>
+					Size 6
+					<hr size=1 width=60%>
+					Size 12
+					<hr size=1 width=40%>
+					<br>
+					Texto 1
+					<p>ejemplo para cambio de <br> linea</p>
+	           </BODY>
+</HTML>
